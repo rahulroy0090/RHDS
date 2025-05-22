@@ -6,8 +6,8 @@ This document outlines the complete installation and configuration process for R
 ## System Information
 - **Hostname**: rhds.rbac.preprod.finopaymentbank.in
 - **Operating System**: RHEL 9
-- **IP Address**: 10.172.20.110/24
-- **Gateway**: 10.172.20.1
+- **IP Address**: x/24
+- **Gateway**: x
 - **Instance Name**: rbac
 - **Base DN**: dc=rhds,dc=rbac,dc=preprod,dc=finopaymentbank,dc=in
 
